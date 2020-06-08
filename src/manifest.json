@@ -1,0 +1,16 @@
+{
+    "name": "Muhammad Rashid",
+    "short_name": "Portfolio",
+    "description": "I am a Fullstack Web Developer with enthusiasm and focus on Frontend Development and Scripting.",
+    "icons": [
+        {
+        "src": "./images/icon.png",
+        "sizes": "310x310",
+        "type": "image/png"
+        }
+     ],
+    "start_url": "/",
+    "background_color": "#000000",
+    "theme_color": "#0c7489",
+    "display": "standalone"
+}
