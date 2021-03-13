@@ -18,4 +18,4 @@ To view a live example, **[click here]()**
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
-- [Popper.js](https://popper.js.org/) - JavaScript popover libra
+- [Popper.js](https://popper.js.org/) - JavaScript popover librar
