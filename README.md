@@ -1,6 +1,6 @@
 ## Features
 
-⚡️ Modern UI Design + Reveal Animations\ 000000000000000
+⚡️ Modern UI Design + Reveal Animations\ 00000000000000
 ⚡️ One Page Layout\
 ⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
 ⚡️ Fully Responsive\
